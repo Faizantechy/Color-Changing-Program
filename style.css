@@ -56,3 +56,28 @@ h1{
 
     color: white;
 }
+
+
+
+@media (max-width:345px){
+
+    button{
+
+        width: 90%;
+        height: 80px;
+        font-size: 30px;
+        font-weight: 600;
+        border-radius: 12px;
+        margin-top: 18px;
+    }
+
+    
+    .Container{
+
+        top: 5%;
+        padding-inline: 1rem;
+    }
+
+
+
+}
